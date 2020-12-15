@@ -1,0 +1,5 @@
+types.c:12:6:init_customer	16	static
+types.c:18:6:del_customer	16	static
+types.c:24:6:send_to_teller	16	static
+types.c:28:6:init_teller	16	static
+types.c:36:6:del_teller	16	static

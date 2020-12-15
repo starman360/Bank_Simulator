@@ -1,0 +1,5 @@
+queue.c:18:6:initialize	16	static
+queue.c:25:5:isEmpty	16	static
+queue.c:31:6:enqueue	16	static
+queue.c:55:11:dequeue	24	static
+queue.c:66:5:get_size	16	static

@@ -1,0 +1,5 @@
+UART_Helpers.c:16:6:UART_print	88	static
+UART_Helpers.c:26:9:UART_read	16	static
+UART_Helpers.c:32:6:wait_for_key	16	static
+UART_Helpers.c:37:6:UART_println	88	static
+UART_Helpers.c:43:6:UART_printlnf	96	static
